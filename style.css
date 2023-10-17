@@ -1,0 +1,15 @@
+.container {
+  width: 170px;
+  margin: auto;
+}
+input {
+  margin: 0.3rem;
+  padding: 0.5rem;
+}
+
+#display2 {
+  margin: auto;
+  width: 10%;
+  height: 3rem;
+  background-color: beige;
+}
